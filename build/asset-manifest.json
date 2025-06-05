@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jbsario/jbsario.github.io/static/css/main.2ad592c5.css",
+    "main.js": "/jbsario/jbsario.github.io/static/js/main.e1ea588d.js",
+    "index.html": "/jbsario/jbsario.github.io/index.html",
+    "main.2ad592c5.css.map": "/jbsario/jbsario.github.io/static/css/main.2ad592c5.css.map",
+    "main.e1ea588d.js.map": "/jbsario/jbsario.github.io/static/js/main.e1ea588d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad592c5.css",
+    "static/js/main.e1ea588d.js"
+  ]
+}
